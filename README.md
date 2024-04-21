@@ -26,7 +26,7 @@ Usage
 1. Open the composition in Adobe After Effects.
 2. Dupilcate your layers to your liking. Make sure the layers are selected before runnign the script.
 3. Run the script from the File > Scripts menu.
-4. . he script will automatically offset the Z positions of all layers in the composition by 1 unit.
+4. The script will automatically offset the Z positions of all layers in the composition by 1 unit.
 
 The operation is non-reversible, so make sure to save your project before running the script.
 
@@ -35,7 +35,7 @@ This script is developed by zay @ DayJob.
 
 Website: http://www.dontquityourdayjob.lol
 GitHub: https://github.com/triplebaconcheeseburger
-Instagram: instagram.com/clybrniii
+Instagram: http://www.instagram.com/clybrniii
 
 License
 This project is licensed under the MIT License.
