@@ -1,4 +1,4 @@
-### 😎 After Effects Layer Z-Position Offset Tool
+## 😎 After Effects Layer Z-Position Offset Tool
 
 This script is designed to offset the Z positions of layers in Adobe After Effects compositions. It provides a simple interface for selecting layers and automatically offsets each layer in the Z-space by a fixed amount.
 
