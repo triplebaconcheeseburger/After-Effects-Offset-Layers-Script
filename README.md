@@ -34,7 +34,9 @@ Developer
 This script is developed by zay @ DayJob.
 
 Website: http://www.dontquityourdayjob.lol
+
 GitHub: https://github.com/triplebaconcheeseburger
+
 Instagram: http://www.instagram.com/clybrniii
 
 License
