@@ -30,6 +30,9 @@ Restart After Effects if it's already running.
 
 The operation is non-reversible, so make sure to save your project before running the script.
 
+## Screenshot
+![alt text](<Screenshot 2024-04-21 at 10.25.49 AM.png>)
+
 ## Developer
 This script is developed by zay @ DayJob.
 
